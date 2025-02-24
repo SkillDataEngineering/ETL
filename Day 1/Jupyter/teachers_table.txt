@@ -1,0 +1,4 @@
+Matteus|True|"5,9"|25
+Peter|True|"1,2,3,7,10"|26
+Tony|True|"4,6,8"|27
+Tomas|False||28
