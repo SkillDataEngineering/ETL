@@ -1,0 +1,5 @@
+name,is_teaching,modules,age
+Matteus,True,"5,9",25
+Peter,False,,26
+Tony,True,"4,6,8",27
+Björn,True,"1,2,3,7,10",28
